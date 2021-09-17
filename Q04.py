@@ -1,5 +1,5 @@
 # import time
-initial = time.time()
+# initial = time.time()
 
 arr = []
 
